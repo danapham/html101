@@ -51,10 +51,16 @@ footer {
 }
 
 .card {
-  border: 1px solid blue;
-  width:  100px;
+  border: 1px solid silver;
+  width:  30%;
+  float: left;
+  margin: 5px;
 }
 
 .card img {
-  width: 100px;
+  width: 100%;
+}
+
+.center-font {
+  text-align: center;
 }
